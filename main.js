@@ -1,4 +1,4 @@
-var object = [];
+var objects = [];
 var status = "";
 var img = "";
 
